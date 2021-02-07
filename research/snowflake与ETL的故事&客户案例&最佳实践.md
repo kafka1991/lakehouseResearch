@@ -23,7 +23,7 @@ ELT：抽取源数据，导入源数据至snowfake时/后，在数据仓库中�
 
 + 内置专门的data interation area，在这里即可以使用[snowflake认证的工具](https://docs.snowflake.com/en/user-guide/ecosystem-etl.html)进行ETL操作，也可以自己programming，支持的语言有Python，go，java，.net， js
 
-![snowflake refence architectture](picture\snowflake refence architectture.png)
+![snowflake refence architectture](https://github.com/kafka1991/lakehouseResearch/blob/master/picture/snowflake%20Architecture.png)
 
 当然，snowflake只是提供了这些可能的选择。具体到是使用ETL还是ELT，每个客户都可以根据经验和preference来选择。这些工具和自服务式的pipelines正在消除传统的需要人工coding进行的ETL和数据清理。snowflake声称入湖/入仓之前不需要任何的pre-transformations和预定义数据的schema。
 

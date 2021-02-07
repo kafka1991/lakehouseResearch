@@ -1,5 +1,5 @@
 # lakehouseResearch
-a lakehouse (snowflake, delta lake, apache iceberg etc.) research and paper.
+lakehouse (snowflake, delta lake, apache iceberg etc.) research and paper.
 
 paper: Big data papers
 
